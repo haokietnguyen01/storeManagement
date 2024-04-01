@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1640494176 source:c:\users\lungu\desktop\c++\hk_store2\main.cpp
+	<iostream>
+	"Person.h"
+
+1640494045 source:c:\users\lungu\desktop\c++\hk_store2\src\manager.cpp
+	"Manager.h"
+	"Person.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+
+1640495155 c:\users\lungu\desktop\c++\hk_store2\include\manager.h
+	"Person.h"
+
+1640531002 c:\users\lungu\desktop\c++\hk_store2\include\person.h
+	<string>
+
+1640496824 source:c:\users\lungu\desktop\c++\hk_store2\src\customer.cpp
+	"Customer.h"
+	"Person.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1640495248 c:\users\lungu\desktop\c++\hk_store2\include\customer.h
+	"Person.h"
+	"Manager.h"
+
+1640494104 source:c:\users\lungu\desktop\c++\hk_store2\src\person.cpp
+	"Person.h"
+	"Manager.h"
+	"Customer.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<iomanip>
+
